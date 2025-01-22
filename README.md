@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" /></a>
   <br />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?&style=for-the-badge&logo=/Amazon EC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?&style=for-the-badge&logo=Amazon EC2&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?&style=for-the-badge&logo=Amazon Route 53&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon S3-569A31?&style=for-the-badge&logo=Amazon S3&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /></a>
